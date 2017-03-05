@@ -1,11 +1,11 @@
 Easy: List existing R packages that have useful functions for biodiversity data cleaning
 PACKAGE LIST:
-•	biogeo 
+• biogeo
 • Record Linkage
-•	rgeospatialquality
-•	taxize 
-•	scrubr 
-•	assert
-•	redlist
-•	traits
+• rgeospatialquality
+• taxize
+• scrubr
+• assert
+• redlist
+• traits
 • dplyr
